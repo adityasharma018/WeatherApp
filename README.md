@@ -2,6 +2,6 @@
 The weather application will provide users with real-time weather information, forecasts, and other weather-related data, which can help them make better decisions about their day-to-day activities.
 It's a  Weather Application made by using HTML, CSS & JavaScript.
 
-Live Demo: 
+Live Demo: https://adityasharma018.github.io/WeatherApp/
 
 
